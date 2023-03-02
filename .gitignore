@@ -1,0 +1,8 @@
+# Project exclude paths
+/node_modules/
+.env
+dist/**/*
+.idea
+docker-compose.yml
+muzshare.sqlite
+/roadmap
